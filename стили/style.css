@@ -144,7 +144,7 @@
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 20px;
-    line-height: 1.15;  
+    line-height: 1.15;
     font-size: 60px;
     font-style: 600;
     font-weight: bold;
@@ -156,7 +156,7 @@
     width: 60%;
     margin-left: auto;
     margin-right: auto;
-    line-height: 34px;  
+    line-height: 34px;
     font-size: 24px;
     font-style: normal;
     text-align: center;
@@ -183,7 +183,7 @@
   .table_heading {
 /*     border: 2px solid rgba(250, 50, 50, .4); */
     margin-bottom: 20px;
-    line-height: 1.15;  
+    line-height: 1.15;
     font-size: 24px;
     font-style: 600;
   }
@@ -191,7 +191,7 @@
   .table_text {
 /*     border: 2px solid rgba(250, 50, 50, .4); */
     margin-bottom: 20px;
-    line-height: 1.2;  
+    line-height: 1.2;
     font-size: 18px;
     font-style: normal;
   }
