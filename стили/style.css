@@ -213,7 +213,7 @@
 
   .feynman_title {
 /*     border: 2px solid rgba(250, 50, 50, .4); */
-    line-height: 1.15;  
+    line-height: 1.15;
     font-size: 120px;
     font-style: 600;
     font-weight: bold;
@@ -227,7 +227,7 @@
 
   .feynman_subtitle {
 /*     border: 2px solid rgba(250, 50, 50, .4); */
-    line-height: 51px;  
+    line-height: 51px;
     font-size: 36px;
     font-style: normal;
     top: 70px;
@@ -238,7 +238,7 @@
   }
   .feynman_link {
 /*     border: 2px solid rgba(250, 50, 50, .4); */
-    line-height: 51px;  
+    line-height: 51px;
     font-size: 36px;
     font-style: normal;
     position: absolute;
@@ -280,7 +280,7 @@
     margin-left: auto;
     margin-right: auto;
     margin-bottom: 20px;
-    line-height: 1.15;  
+    line-height: 1.15;
     font-size: 60px;
     font-style: 600;
     text-align: center;
