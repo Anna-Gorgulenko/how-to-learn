@@ -254,7 +254,7 @@
     width: 867px;
     height: 637px;
     bottom: 0;
-    light: 0;
+    right: 0;
     z-index: -1;
     position: absolute;
   }
