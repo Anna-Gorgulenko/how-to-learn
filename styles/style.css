@@ -48,7 +48,7 @@
 
   .header__subtitle {
 /*     outline: 1px #f66 solid; */
-    margin: 0;    
+    margin: 0;
     position: absolute;
     left: 64px;
     bottom: 30px;
@@ -130,7 +130,7 @@
 
   .two-columns__paragraph {
 /*     outline: 1px #f66 solid;  */
-    margin-top: 0;    
+    margin-top: 0;
     line-height: 34px;
     font-size: 24px;
     font-weight: normal;
@@ -195,6 +195,7 @@
     height: 100%;
     margin-top: 60px;
 }
+
   .table__heading {
 /*     outline: 1px #f66 solid; */
     margin: 0;
@@ -245,6 +246,7 @@
     margin: 0;
     z-index: 1;
   }
+  
   .feynman__link {
 /* outline: 1px #f66 solid; */
     position: absolute;
@@ -313,7 +315,6 @@
     height: 877px;
     top: 0;
     right: -210px;
-    z-index: 1;
     object-fit: fill;
     object-position: left;
     z-index: -1;
@@ -335,7 +336,6 @@
   margin-top: 60px;
   justify-content: space-between;
   margin-bottom: 40px;
-  display: flex;
 }
 
 .footer__column {
@@ -396,10 +396,7 @@
   list-style-type: none;
 }
 
-.footer__column_content_social {
-/*   outline: 1px yellowgreen solid; */
-/* list-style-type: none; */
-}
+.footer__column_content_social {}
 
 .footer__social-icon {
 /*   outline: 1px blueviolet solid; */
