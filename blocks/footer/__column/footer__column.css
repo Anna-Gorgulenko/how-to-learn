@@ -1,0 +1,5 @@
+.footer__column {
+   /*   outline: 1px #f66 solid; */
+     display: flex;
+     flex-direction: column;
+   }

@@ -1,0 +1,10 @@
+.footer__column-links {  
+   /*   outline: 1px aqua solid; */
+     display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+     margin: 0;
+     padding: 0;
+     margin-bottom: 16px;
+     list-style-type: none;
+   }
