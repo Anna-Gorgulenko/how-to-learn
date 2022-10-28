@@ -1,0 +1,9 @@
+.resources__link {
+   /* outline: 1px #f66 solid; */
+   display: block;
+}
+
+.resources__link:hover {
+   opacity: .3;
+   transition: 3s;
+}

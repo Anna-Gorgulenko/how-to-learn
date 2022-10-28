@@ -1,0 +1,6 @@
+.footer__column_content_copyrigh {
+   /*   outline: 1px blue solid; */
+     flex-basis: 711px;
+     display: flex;
+     justify-content: space-between;
+   }   

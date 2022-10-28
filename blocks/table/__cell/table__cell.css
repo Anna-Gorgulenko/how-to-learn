@@ -1,0 +1,6 @@
+.table__cell {
+   /*     outline: 1px #f66 solid; */
+       width: 250px;
+       height: 100%;
+       margin-top: 60px;
+   }
