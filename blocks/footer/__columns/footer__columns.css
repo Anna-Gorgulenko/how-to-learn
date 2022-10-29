@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .footer__columns {
    /*   outline: 1px green solid; */
      display: flex;
@@ -5,4 +6,13 @@
      margin-top: 60px;
      justify-content: space-between;
      margin-bottom: 40px;
+=======
+.footer__columns {
+   /*   outline: 1px green solid; */
+     display: flex;
+     width: 90%;
+     margin-top: 60px;
+     justify-content: space-between;
+     margin-bottom: 40px;
+>>>>>>> 5d6741c4626ffd02a0da1b47fc2e5523c59e44de
    }

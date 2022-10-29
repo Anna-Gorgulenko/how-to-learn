@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 .video__iframe {
    /* utline: 1px #f66 solid; */
    width: 515px;
    height: 316px;
    margin-right: 20px;
    border: 0;
+=======
+.video__iframe {
+   /* utline: 1px #f66 solid; */
+   width: 515px;
+   height: 316px;
+   margin-right: 20px;
+   border: 0;
+>>>>>>> 5d6741c4626ffd02a0da1b47fc2e5523c59e44de
 }

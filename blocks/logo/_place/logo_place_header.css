@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 .logo_place_header {
    /*   outline: 1px #f66 solid;  */
        position: absolute;
        top: 30px;
        left: 64px;
        z-index: 3;
+=======
+.logo_place_header {
+   /*   outline: 1px #f66 solid;  */
+       position: absolute;
+       top: 30px;
+       left: 64px;
+       z-index: 3;
+>>>>>>> 5d6741c4626ffd02a0da1b47fc2e5523c59e44de
      }

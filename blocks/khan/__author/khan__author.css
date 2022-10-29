@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .khan__author {
    /* outline: 1px #f66 solid; */
    margin: 0;
@@ -6,4 +7,14 @@
    font-size: 30px;
    font-weight: normal;
    margin-top: 105px;
+=======
+.khan__author {
+   /* outline: 1px #f66 solid; */
+   margin: 0;
+   padding: 0;
+   line-height: 42px;
+   font-size: 30px;
+   font-weight: normal;
+   margin-top: 105px;
+>>>>>>> 5d6741c4626ffd02a0da1b47fc2e5523c59e44de
 }

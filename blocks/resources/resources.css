@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 .resources {
    /* outline: 1px #f66 solid; */
    display: flex;
    flex-direction: column;
    padding-top: 100px;
    align-items: center;
+=======
+.resources {
+   /* outline: 1px #f66 solid; */
+   display: flex;
+   flex-direction: column;
+   padding-top: 100px;
+   align-items: center;
+>>>>>>> 5d6741c4626ffd02a0da1b47fc2e5523c59e44de
 }

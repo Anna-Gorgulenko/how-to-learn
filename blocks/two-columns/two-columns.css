@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 .two-columns {
    /*     outline: 1px #f66 solid;  */
        display: flex;
        max-width: 80%;
        justify-content: space-between;
+=======
+.two-columns {
+   /*     outline: 1px #f66 solid;  */
+       display: flex;
+       max-width: 80%;
+       justify-content: space-between;
+>>>>>>> 5d6741c4626ffd02a0da1b47fc2e5523c59e44de
      }

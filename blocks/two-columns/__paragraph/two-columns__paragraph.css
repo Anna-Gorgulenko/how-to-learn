@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .two-columns__paragraph {
    /*     outline: 1px #f66 solid;  */
        margin-top: 0;
@@ -9,4 +10,17 @@
 
      .two-columns__paragraph:last-child {
       margin: 0;
+=======
+.two-columns__paragraph {
+   /*     outline: 1px #f66 solid;  */
+       margin-top: 0;
+       line-height: 34px;
+       font-size: 24px;
+       font-weight: normal;
+       margin-bottom: 30px;
+     }
+
+     .two-columns__paragraph:last-child {
+      margin: 0;
+>>>>>>> 5d6741c4626ffd02a0da1b47fc2e5523c59e44de
     }

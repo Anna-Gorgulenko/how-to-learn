@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 .table__heading {
    /*     outline: 1px #f66 solid; */
        margin: 0;
        line-height: 1.15;
        font-size: 24px;
        font-weight: 600;
+=======
+.table__heading {
+   /*     outline: 1px #f66 solid; */
+       margin: 0;
+       line-height: 1.15;
+       font-size: 24px;
+       font-weight: 600;
+>>>>>>> 5d6741c4626ffd02a0da1b47fc2e5523c59e44de
      }

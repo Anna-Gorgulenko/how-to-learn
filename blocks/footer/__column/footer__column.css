@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 .footer__column {
    /*   outline: 1px #f66 solid; */
      display: flex;
      flex-direction: column;
+=======
+.footer__column {
+   /*   outline: 1px #f66 solid; */
+     display: flex;
+     flex-direction: column;
+>>>>>>> 5d6741c4626ffd02a0da1b47fc2e5523c59e44de
    }

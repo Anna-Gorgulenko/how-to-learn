@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 .footer__social-icon {
    /*   outline: 1px blueviolet solid; */
      width: 16px;
      height: 16px;
      padding-right: 10px;
+=======
+.footer__social-icon {
+   /*   outline: 1px blueviolet solid; */
+     width: 16px;
+     height: 16px;
+     padding-right: 10px;
+>>>>>>> 5d6741c4626ffd02a0da1b47fc2e5523c59e44de
    }

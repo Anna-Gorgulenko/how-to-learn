@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .feynman__subtitle {
    /* outline: 1px #f66 solid; */
        line-height: 51px;
@@ -5,4 +6,13 @@
        font-weight: normal;
        margin: 0;
        z-index: 1;
+=======
+.feynman__subtitle {
+   /* outline: 1px #f66 solid; */
+       line-height: 51px;
+       font-size: 36px;
+       font-weight: normal;
+       margin: 0;
+       z-index: 1;
+>>>>>>> 5d6741c4626ffd02a0da1b47fc2e5523c59e44de
      }

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .kaufman {
    /*   outline: 1px #f66 solid;  */
      margin: 0;
@@ -11,4 +12,19 @@
      z-index: 0;
      justify-content: center;
      padding-top: 90px;
+=======
+.kaufman {
+   /*   outline: 1px #f66 solid;  */
+     margin: 0;
+     display: block;
+     position: relative;
+     margin-left: auto;
+     margin-right: auto;
+     background-color: #1f1f1f;
+     /* color: white; */
+     overflow: hidden;
+     z-index: 0;
+     justify-content: center;
+     padding-top: 90px;
+>>>>>>> 5d6741c4626ffd02a0da1b47fc2e5523c59e44de
    }

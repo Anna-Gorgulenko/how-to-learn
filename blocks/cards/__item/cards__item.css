@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .cards__item {
 /*    outline: 1px #f66 solid; */
    margin: 0;
@@ -6,4 +7,14 @@
    width: 240px;
    text-align: center;
    list-style: none;
+=======
+.cards__item {
+/*    outline: 1px #f66 solid; */
+   margin: 0;
+   padding: 0;
+   padding-top: 60px;
+   width: 240px;
+   text-align: center;
+   list-style: none;
+>>>>>>> 5d6741c4626ffd02a0da1b47fc2e5523c59e44de
 }

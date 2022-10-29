@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 .khan__book-container {
    /* outline: 1px #f66 solid; */
    display: flex;
    align-items: flex-start;
+=======
+.khan__book-container {
+   /* outline: 1px #f66 solid; */
+   display: flex;
+   align-items: flex-start;
+>>>>>>> 5d6741c4626ffd02a0da1b47fc2e5523c59e44de
 }

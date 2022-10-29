@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .cards {
 /*    outline: 1px #f66 solid; */
    margin: 0;
@@ -6,4 +7,14 @@
    width: 920px;
    flex-wrap: wrap;
    column-gap: 100px;
+=======
+.cards {
+/*    outline: 1px #f66 solid; */
+   margin: 0;
+   padding: 0;
+   display: flex;
+   width: 920px;
+   flex-wrap: wrap;
+   column-gap: 100px;
+>>>>>>> 5d6741c4626ffd02a0da1b47fc2e5523c59e44de
 }

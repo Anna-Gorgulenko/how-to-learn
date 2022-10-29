@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .khan__buy-link {
    /* outline: 1px #f66 solid; */
    margin: 0;
@@ -12,4 +13,20 @@
 .khan__buy-link:hover {
    opacity: .3;
    transition: 3s;
+=======
+.khan__buy-link {
+   /* outline: 1px #f66 solid; */
+   margin: 0;
+   padding: 0;
+   line-height: 42px;
+   font-size: 30px;
+   font-weight: normal;
+   text-decoration: none;
+   color: #2F80ED;
+}
+
+.khan__buy-link:hover {
+   opacity: .3;
+   transition: 3s;
+>>>>>>> 5d6741c4626ffd02a0da1b47fc2e5523c59e44de
 }

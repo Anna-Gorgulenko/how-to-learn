@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .feynman__link {
    /* outline: 1px #f66 solid; */
   position: absolute;
@@ -14,4 +15,22 @@
 .feynman__link:hover {
   opacity: .3;
   transition: 3s;
+=======
+.feynman__link {
+   /* outline: 1px #f66 solid; */
+  position: absolute;
+  text-decoration: none;
+  color: #2F80ED;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+  z-index: 1;
+  right: 48px;
+  top: 50%;
+}
+   
+.feynman__link:hover {
+  opacity: .3;
+  transition: 3s;
+>>>>>>> 5d6741c4626ffd02a0da1b47fc2e5523c59e44de
 }

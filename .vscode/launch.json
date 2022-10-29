@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
    // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
    // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
@@ -12,4 +13,20 @@
          "webRoot": "${workspaceFolder}"
       }
    ]
+=======
+{
+   // Используйте IntelliSense, чтобы узнать о возможных атрибутах.
+   // Наведите указатель мыши, чтобы просмотреть описания существующих атрибутов.
+   // Для получения дополнительной информации посетите: https://go.microsoft.com/fwlink/?linkid=830387
+   "version": "0.2.0",
+   "configurations": [
+      {
+         "type": "chrome",
+         "request": "launch",
+         "name": "Launch Chrome against localhost",
+         "url": "http://localhost:8080",
+         "webRoot": "${workspaceFolder}"
+      }
+   ]
+>>>>>>> 5d6741c4626ffd02a0da1b47fc2e5523c59e44de
 }
