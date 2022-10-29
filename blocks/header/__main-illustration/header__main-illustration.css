@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .header__main-illustration {
    /*     outline: 1px #f66 solid;  */
        position: absolute;
@@ -9,16 +8,4 @@
        bottom: 0;
        right: 0;
        z-index: 1;
-=======
-.header__main-illustration {
-   /*     outline: 1px #f66 solid;  */
-       position: absolute;
-       object-fit: cover;
-       object-position: right bottom;
-       width: 765px;
-       height: 608px;
-       bottom: 0;
-       right: 0;
-       z-index: 1;
->>>>>>> 5d6741c4626ffd02a0da1b47fc2e5523c59e44de
      }

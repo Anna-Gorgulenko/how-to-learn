@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .header__subtitle {
    /*     outline: 1px #f66 solid; */
        margin: 0;
@@ -10,17 +9,4 @@
        font-weight: normal;
        line-height: 25px;
        z-index: 2;
-=======
-.header__subtitle {
-   /*     outline: 1px #f66 solid; */
-       margin: 0;
-       position: absolute;
-       left: 64px;
-       bottom: 30px;
-       max-width: 388px;
-       font-size: 18px;
-       font-weight: normal;
-       line-height: 25px;
-       z-index: 2;
->>>>>>> 5d6741c4626ffd02a0da1b47fc2e5523c59e44de
      }

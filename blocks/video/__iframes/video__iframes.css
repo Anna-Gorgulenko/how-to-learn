@@ -1,14 +1,6 @@
-<<<<<<< HEAD
 .video__iframes {
    /* outline: 1px #f66 solid; */
    padding: 0;
    display: flex;
    margin: 50px auto 0;
-=======
-.video__iframes {
-   /* outline: 1px #f66 solid; */
-   padding: 0;
-   display: flex;
-   margin: 50px auto 0;
->>>>>>> 5d6741c4626ffd02a0da1b47fc2e5523c59e44de
 }
